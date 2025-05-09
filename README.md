@@ -26,7 +26,7 @@
 ## Screenshots
 
 <p align="center">
-  <video src="screenshots/demo.webm" width="600" alt="YouTube Downloader demo video">
+  <video src="https://github.com/user-attachments/assets/cda9caef-f238-4c41-a283-a7988ea34723" width="600" alt="YouTube Downloader demo video">
 </p>
 
 <p align="center">
@@ -73,4 +73,5 @@ Our extension extracts audio directly from videos without requiring any addition
 
 Have questions or need help? Open an issue or reach out to us:
 
+- [Create an Issue](https://github.com/tublydownloader/Youtube-Downloader-Extension/issues/new/choose)
 - [Official Website](https://tubly.download)
