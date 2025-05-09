@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Downloader</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="../assets/logo.png" alt="YouTube Downloader Logo" class="logo">
+      <h1>YouTube Downloader</h1>
+    </div>
+    
+    <div id="no-video" class="message">
+      <p>Please navigate to a YouTube video to use this extension.</p>
+      <button id="open-youtube" class="btn primary">Go to YouTube</button>
+    </div>
+    
+    <div id="video-info" class="hidden">
+      <div class="thumbnail-container">
+        <img id="video-thumbnail" src="" alt="Video thumbnail">
+        <span id="video-duration" class="duration"></span>
+      </div>
+      <h2 id="video-title" class="title"></h2>
+      <p id="channel-name" class="channel"></p>
+      
+      <div class="download-section">
+        <h3>Video Quality</h3>
+        <div id="video-qualities" class="quality-options">
+          <!-- Quality options will be inserted here by JavaScript -->
+        </div>
+        
+        <h3>Audio Only</h3>
+        <div id="audio-qualities" class="quality-options">
+          <!-- Audio options will be inserted here by JavaScript -->
+        </div>
+      </div>
+      
+      <div id="download-progress" class="progress-container hidden">
+        <div class="progress-bar">
+          <div id="progress" class="progress"></div>
+        </div>
+        <p id="progress-text">Preparing download...</p>
+      </div>
+      
+      <div class="footer">
+        <button id="settings-btn" class="btn secondary">Settings</button>
+        <span class="version">v1.0.0</span>
+      </div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
