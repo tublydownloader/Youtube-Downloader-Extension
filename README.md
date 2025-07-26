@@ -7,11 +7,21 @@
 <h3 align="center">Download YouTube videos in 4K, convert to MP3, and save YouTube Shorts</h3>
 
 <p align="center">
+  <a href="https://github.com/tublydownloader/Youtube-Downloader-Extension/releases/latest">
+    <img src="https://img.shields.io/github/v/release/tublydownloader/Youtube-Downloader-Extension?style=for-the-badge&logo=github" alt="Latest Release">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tublydownloader/Youtube-Downloader-Extension/issues/new/choose">🐛 Report Issue</a> •
+  <a href="https://tubly.download">🌐 Official Website</a>
+</p>
+
+<p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#installation">Installation</a> •
-  <a href="#faq">FAQ</a> •
-  <a href="#contact">Contact</a>
+  <a href="#faq">FAQ</a>
 </p>
 
 ## Key Features
@@ -69,9 +79,3 @@ Yes! Our Chrome extension is specially designed to detect and download YouTube S
 ### How does the audio extraction feature work?
 Our extension extracts audio directly from videos without requiring any additional software. After installing, you'll see an "Audio" option when clicking the download button to save in high-quality 320kbps MP3 format.
 
-## Contact
-
-Have questions or need help? Open an issue or reach out to us:
-
-- [Create an Issue](https://github.com/tublydownloader/Youtube-Downloader-Extension/issues/new/choose)
-- [Official Website](https://tubly.download)
