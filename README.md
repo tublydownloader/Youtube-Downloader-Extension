@@ -27,7 +27,7 @@
 ## Key Features
 
 - **4K Video Downloads**: Download YouTube videos in ultra HD quality
-- **MP3 Conversion**: Convert YouTube videos to high-quality 320kbps MP3 audio
+- **YouTube to MP3 Converter**: Convert YouTube videos to high-quality 320kbps MP3 audio
 - **YouTube Shorts**: Save Shorts videos with one click
 - **No Ads, No Extra Software**: Clean and straightforward downloading experience
 - **Cross-Platform**: Works on Windows, macOS, and Linux with Chrome, Edge, Firefox, Opera, Brave, and Vivaldi
@@ -58,7 +58,7 @@ For detailed installation instructions on Chromium-based browsers, visit our [of
 3. Follow the prompts to complete installation
 
 ### Firefox
-1. Download our [Firefox add-on xpi package](https://tubly.download/firefox/tubly_downloader_v1.2.5.xpi)
+1. Download our [Firefox add-on xpi package](https://github.com/tublydownloader/Youtube-Downloader-Extension/releases/latest/download/tubly_downloader_firefox.xpi)
 2. Firefox will automatically start the installation process
 3. Follow the prompts to complete installation
 
@@ -76,6 +76,6 @@ Simply navigate to any YouTube video, and click the download button that appears
 ### Can I download YouTube Shorts videos?
 Yes! Our Chrome extension is specially designed to detect and download YouTube Shorts. When viewing Shorts content, you'll see our download button appear, allowing you to save these short-form videos directly to your device.
 
-### How does the audio extraction feature work?
+### How to convert YouTube videos to MP3?
 Our extension extracts audio directly from videos without requiring any additional software. After installing, you'll see an "Audio" option when clicking the download button to save in high-quality 320kbps MP3 format.
 
