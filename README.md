@@ -7,8 +7,12 @@
 <h3 align="center">Download YouTube videos in 4K, convert to MP3, and save YouTube Shorts</h3>
 
 <p align="center">
-  <a href="https://github.com/tublydownloader/Youtube-Downloader-Extension/releases/latest">
-    <img src="https://img.shields.io/github/v/release/tublydownloader/Youtube-Downloader-Extension?style=for-the-badge&logo=github" alt="Latest Release">
+  <a href="https://tubly.download/install.html">
+    <img src="https://img.shields.io/badge/Add%20to-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Add to Chrome">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tubly.download/firefox/tubly_downloader_v1.4.5.xpi">
+    <img src="https://img.shields.io/badge/Add%20to-Firefox-FF7139?style=for-the-badge&logo=firefox" alt="Add to Firefox">
   </a>
 </p>
 
