@@ -58,7 +58,7 @@ For detailed installation instructions on Chromium-based browsers, visit our [of
 3. Follow the prompts to complete installation
 
 ### Firefox
-1. Download our [Firefox add-on xpi package](https://github.com/tublydownloader/Youtube-Downloader-Extension/releases/latest/download/tubly_downloader_firefox.xpi)
+1. Download our [Firefox add-on xpi package](https://tubly.download/firefox/tubly_downloader_v1.4.5.xpi)
 2. Firefox will automatically start the installation process
 3. Follow the prompts to complete installation
 
