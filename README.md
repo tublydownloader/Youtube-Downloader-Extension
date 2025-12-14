@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://tubly.download/install.html"><img src="https://img.shields.io/badge/Add%20to-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Add to Chrome"></a>
   &nbsp;&nbsp;
-  <a href="https://tubly.download/firefox/tubly_downloader_v1.4.5.xpi"><img src="https://img.shields.io/badge/Add%20to-Firefox-FF7139?style=for-the-badge&logo=firefox" alt="Add to Firefox"></a>
+  <a href="https://tubly.download/firefox/tubly_downloader_v1.5.0.xpi"><img src="https://img.shields.io/badge/Add%20to-Firefox-FF7139?style=for-the-badge&logo=firefox" alt="Add to Firefox"></a>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ For detailed installation instructions on Chromium-based browsers, visit our [of
 3. Follow the prompts to complete installation
 
 ### Firefox
-1. Download our [Firefox add-on xpi package](https://tubly.download/firefox/tubly_downloader_v1.4.5.xpi)
+1. Download our [Firefox add-on xpi package](https://tubly.download/firefox/tubly_downloader_v1.5.0.xpi)
 2. Firefox will automatically start the installation process
 3. Follow the prompts to complete installation
 
